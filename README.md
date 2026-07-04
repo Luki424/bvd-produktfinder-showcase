@@ -1,0 +1,13 @@
+# BVD Produktfinder – Showcase
+
+Interaktiver Produktfinder über das Sortiment der [BVD GmbH, Sinsheim](https://www.bvd-batterien.de)
+(„The Battery Company"): 60 Produktlinien mit 430 Varianten – Starter-, Motorrad-,
+Versorgungs-, Backup- und Industriebatterien, Portable Power und Zubehör von
+FLYBAT, VARTA, BOSCH, OPTIMA, HOPPECKE, motoVolt, MAWEK, S.P.E. und Victron Energy.
+
+**Inoffizieller Demo-Showcase.** Produktdaten (Typenprogramme, Maße, Gewichte,
+Kaltstartströme, Artikelnummern), Bilder und Datenblatt-Links stammen von den
+öffentlichen Produktseiten auf bvd-batterien.de (Stand Juli 2026). Keine Preise –
+Anfragen direkt an die BVD GmbH.
+
+Single-File-App (React + Vite, alles in einer `index.html`), gebaut mit Claude Code.
