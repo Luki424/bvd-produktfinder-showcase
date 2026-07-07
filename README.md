@@ -13,6 +13,7 @@ Anfragen direkt an die BVD GmbH.
 Single-File-App (React + Vite, alles in einer `index.html`), gebaut mit Claude Code.
 Als PWA installierbar und offline nutzbar (Service Worker); die Suche versteht auch
 Vergleichstypen wie `LN3`, `BCI 48` oder `YTX14-BS` – inklusive Kurzschreibweisen
-(`bci48`, `YTX14BS`). Je Variante zeigt eine Verfügbarkeits-Ampel
+(`bci48`, `YTX14BS`) – sowie EAN-Codes vom Barcode. Je Variante zeigt eine Verfügbarkeits-Ampel
 (auf Lager / knapp / auf Anfrage) den BVD-Lagerbestand (Stichtag im Tooltip) –
-ohne interne Stückzahlen.
+ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
+Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste.
