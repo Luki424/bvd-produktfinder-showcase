@@ -16,4 +16,6 @@ Vergleichstypen wie `LN3`, `BCI 48` oder `YTX14-BS` – inklusive Kurzschreibwei
 (`bci48`, `YTX14BS`) – sowie EAN-Codes vom Barcode. Je Variante zeigt eine Verfügbarkeits-Ampel
 (auf Lager / knapp / auf Anfrage) den BVD-Lagerbestand (Stichtag im Tooltip) –
 ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
-Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste.
+Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste. Ein Sortiment-Dashboard
+zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
+Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
