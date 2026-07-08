@@ -19,10 +19,12 @@ ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
 Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste. Ein Sortiment-Dashboard
 zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
-Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie.
+Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie;
+ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein Technik-Glossar
+erklärt die Fachbegriffe.
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
-und Desktop), QR-Code beim Teilen und druckfertige Anfrageliste. QR-Codes via
+und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste und WhatsApp-Anfrage an BVD. QR-Codes via
 [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT).
 Die Oberfläche ist zweisprachig (DE/EN, Umschalter im Header); Produktdaten
 bleiben in Originalsprache.
