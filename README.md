@@ -20,8 +20,9 @@ Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste. Ein Sortiment-Dashbo
 zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
 Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie;
-ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein Technik-Glossar
-erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
+ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein
+Batteriebank-Rechner legt Reihen-/Parallelschaltungen für 12/24/48-V-Systeme aus;
+ein Technik-Glossar erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
