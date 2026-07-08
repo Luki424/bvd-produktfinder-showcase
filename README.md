@@ -19,6 +19,7 @@ ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
 Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste. Ein Sortiment-Dashboard
 zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
+Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie.
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
 und Desktop), QR-Code beim Teilen und druckfertige Anfrageliste. QR-Codes via
