@@ -13,7 +13,7 @@ Anfragen direkt an die BVD GmbH.
 Single-File-App (React + Vite, alles in einer `index.html`), gebaut mit Claude Code.
 Als PWA installierbar und offline nutzbar (Service Worker); die Suche versteht auch
 Vergleichstypen wie `LN3`, `BCI 48` oder `YTX14-BS` – inklusive Kurzschreibweisen
-(`bci48`, `YTX14BS`) – sowie EAN-Codes vom Barcode. Je Variante zeigt eine Verfügbarkeits-Ampel
+(`bci48`, `YTX14BS`) – sowie EAN- und ETN-Typnummern. Je Variante zeigt eine Verfügbarkeits-Ampel
 (auf Lager / knapp / auf Anfrage) den BVD-Lagerbestand (Stichtag im Tooltip) –
 ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
 Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste. Ein Sortiment-Dashboard
@@ -21,7 +21,8 @@ zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickb
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
 Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie;
 ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein Technik-Glossar
-erklärt die Fachbegriffe.
+erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
+Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
 und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste und WhatsApp-Anfrage an BVD. QR-Codes via
