@@ -28,5 +28,6 @@ Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
 und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste und WhatsApp-Anfrage an BVD. QR-Codes via
 [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT).
-Die Oberfläche ist zweisprachig (DE/EN, Umschalter im Header); Produktdaten
-bleiben in Originalsprache.
+Die Oberfläche ist zweisprachig (DE/EN) und bietet einen Hell-/Dunkelmodus
+(Umschalter im Header, folgt sonst der Systemeinstellung); Produktdaten bleiben
+in Originalsprache.
