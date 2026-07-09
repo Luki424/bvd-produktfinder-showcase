@@ -26,12 +26,14 @@ ein Bordnetz-Assistent für Marine & Caravan empfiehlt anhand von Fahrzeugtyp, N
 Landstrom und Solar die passende Versorgungstechnologie (Blei/LiFePO4), Ladequellen
 (Landstrom-Ladegerät, Ladebooster, Solar/MPPT) und Kernprinzipien – inklusive
 Verbraucher-Baukasten, der typische Bordverbraucher (Kühlbox, Licht, Wasserpumpe …)
-auswählbar macht und direkt in den Energiebedarf-Rechner übernimmt;
+auswählbar macht und direkt in den Energiebedarf-Rechner übernimmt; dessen Ergebnis
+wiederum belegt den Batteriebank-Rechner mit der Ziel-Kapazität (Blei/LiFePO4) vor;
 ein Technik-Glossar erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
-und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste und WhatsApp-Anfrage an BVD. QR-Codes via
+und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste sowie Direktkontakt
+(Anrufen per tel:-Link und vorbereitete E-Mail) aus der Anfrageliste. QR-Codes via
 [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT).
 Die Oberfläche ist zweisprachig (DE/EN) und bietet einen Hell-/Dunkelmodus
 (Umschalter im Header, folgt sonst der Systemeinstellung); Produktdaten bleiben
