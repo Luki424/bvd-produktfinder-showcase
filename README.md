@@ -32,7 +32,8 @@ Landstrom und Solar die passende Versorgungstechnologie (Blei/LiFePO4), Ladequel
 Verbraucher-Baukasten, der typische Bordverbraucher (Kühlbox, Licht, Wasserpumpe …)
 auswählbar macht und direkt in den Energiebedarf-Rechner übernimmt; dessen Ergebnis
 wiederum belegt den Batteriebank-Rechner mit der Ziel-Kapazität (Blei/LiFePO4) vor;
-ein Technik-Glossar erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
+ein Technik-Glossar erklärt die Fachbegriffe; ein Info-Bereich erläutert Altbatterie-Rücknahme,
+Pfand (Batteriegesetz) und Batterie-Pflege/Lagerung. ETN-Typnummer und Pollage (Pluspol rechts/links) je
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
