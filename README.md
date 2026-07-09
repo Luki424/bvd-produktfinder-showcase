@@ -19,6 +19,10 @@ ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
 Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste; Sortierung „Sofort ab Lager zuerst" und ein Verfügbarkeits-Zähler im Katalog. Ein Sortiment-Dashboard
 zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
+Eine Vergleichs-Ansicht stellt mehrere Produktlinien nebeneinander (Verfügbarkeit,
+Technologie, Spannung, Kapazität, Kaltstart, Maße L×B×H, Gewicht, Varianten) –
+mit Unterschieds-Hervorhebung, Filter „Nur Unterschiede", teilbarem Link und
+direkter Übernahme in die Anfrageliste.
 Ein Ladegeräte-Berater empfiehlt Ladestrom und passende Ladegeräte zur Batterie;
 ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein
 Batteriebank-Rechner legt Reihen-/Parallelschaltungen für 12/24/48-V-Systeme aus;
