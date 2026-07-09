@@ -24,8 +24,10 @@ ein Upgrade-Berater zeigt zulässige Wechsel (SLI → EFB → AGM); ein
 Batteriebank-Rechner legt Reihen-/Parallelschaltungen für 12/24/48-V-Systeme aus;
 ein Bordnetz-Assistent für Marine & Caravan empfiehlt anhand von Fahrzeugtyp, Nutzung,
 Landstrom und Solar die passende Versorgungstechnologie (Blei/LiFePO4), Ladequellen
-(Landstrom-Ladegerät, Ladebooster, Solar/MPPT) und Kernprinzipien und verlinkt die
-passenden Rechner; ein Technik-Glossar erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
+(Landstrom-Ladegerät, Ladebooster, Solar/MPPT) und Kernprinzipien – inklusive
+Verbraucher-Baukasten, der typische Bordverbraucher (Kühlbox, Licht, Wasserpumpe …)
+auswählbar macht und direkt in den Energiebedarf-Rechner übernimmt;
+ein Technik-Glossar erklärt die Fachbegriffe. ETN-Typnummer und Pollage (Pluspol rechts/links) je
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
