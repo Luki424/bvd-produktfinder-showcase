@@ -35,7 +35,8 @@ Verbraucher-Baukasten, der typische Bordverbraucher (Kühlbox, Licht, Wasserpump
 auswählbar macht und direkt in den Energiebedarf-Rechner übernimmt; dessen Ergebnis
 wiederum belegt den Batteriebank-Rechner mit der Ziel-Kapazität (Blei/LiFePO4) vor;
 ein Technik-Glossar erklärt die Fachbegriffe; ein Info-Bereich erläutert Altbatterie-Rücknahme,
-Pfand (Batteriegesetz) und Batterie-Pflege/Lagerung; eine Kontakt- & Standortkarte
+Pfand (Batteriegesetz), Batterie-Pflege/Lagerung und eine Schritt-für-Schritt-Anleitung
+zum Batteriewechsel (PKW, inkl. Sicherheitshinweisen); eine Kontakt- & Standortkarte
 bündelt Adresse, Telefon, E-Mail und einen „Route planen"-Link. ETN-Typnummer und Pollage (Pluspol rechts/links) je
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
