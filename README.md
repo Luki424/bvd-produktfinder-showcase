@@ -40,7 +40,8 @@ bündelt Adresse, Telefon, E-Mail und einen „Route planen"-Link. ETN-Typnummer
 Variante stammen aus der offiziellen BVD-Preisliste (ohne Preise).
 Fürs Tagesgeschäft: Barcode-Scanner in der Suche (nativer BarcodeDetector,
 plus eigener EAN-13-Decoder als Fallback – funktioniert damit auch auf iPhone
-und Desktop), QR-Code beim Teilen, druckfertige Anfrageliste, ein druckbares
+und Desktop), Teilen per nativem Teilen-Menü (Web Share API) am Handy bzw. QR-Code
+und Link-Kopie am Desktop, ein „App installieren"-Button (PWA), druckfertige Anfrageliste, ein druckbares
 Produkt-Datenblatt je Produktlinie (Typenprogramm, Maße, Kaltstart, Verfügbarkeit,
 Anwendungen, BVD-Kontakt) sowie Direktkontakt
 (Anrufen per tel:-Link und vorbereitete E-Mail) aus der Anfrageliste. QR-Codes via
