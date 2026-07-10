@@ -16,7 +16,9 @@ Vergleichstypen wie `LN3`, `BCI 48` oder `YTX14-BS` – inklusive Kurzschreibwei
 (`bci48`, `YTX14BS`) – sowie EAN- und ETN-Typnummern. Je Variante zeigt eine Verfügbarkeits-Ampel
 (auf Lager / knapp / auf Anfrage) den BVD-Lagerbestand (Stichtag im Tooltip) –
 ohne interne Stückzahlen; dazu Katalog-Filter „Sofort ab Lager" und
-Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste; Sortierung „Sofort ab Lager zuerst" und ein Verfügbarkeits-Zähler im Katalog. Ein Sortiment-Dashboard
+Verfügbarkeits-Hinweise in Produktkarten und Anfrageliste; Sortierung „Sofort ab Lager zuerst" und ein Verfügbarkeits-Zähler im Katalog. Produktlinien lassen sich
+per Stern als Favoriten merken (dauerhaft gespeichert, Schnellzugriff-Leiste) –
+ergänzt um einen „Zuletzt angesehen"-Verlauf. Ein Sortiment-Dashboard
 zeigt Kategorien, Technologien, Kapazitätsklassen und Lagerabdeckung als klickbare
 Charts; der Ersatzbatterie-Finder visualisiert das Einbaumaß maßstabsgetreu.
 Eine Vergleichs-Ansicht stellt mehrere Produktlinien nebeneinander (Verfügbarkeit,
