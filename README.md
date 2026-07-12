@@ -49,4 +49,8 @@ Anwendungen, BVD-Kontakt) sowie Direktkontakt
 [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT).
 Die Oberfläche ist zweisprachig (DE/EN) und bietet einen Hell-/Dunkelmodus
 (Umschalter im Header, folgt sonst der Systemeinstellung); Produktdaten bleiben
-in Originalsprache.
+in Originalsprache. Auf Barrierefreiheit ausgelegt: Text-Kontraste erfüllen in
+beiden Modi WCAG AA (mind. 4.5:1), Dialoge sind vollständig per Tastatur bedienbar
+(Fokusfalle, Escape, Fokus-Rückgabe), Fokusringe sind in Hell und Dunkel gut
+sichtbar, und die Animationen respektieren „Bewegung reduzieren"
+(`prefers-reduced-motion`).
