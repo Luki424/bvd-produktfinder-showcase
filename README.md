@@ -47,10 +47,21 @@ Produkt-Datenblatt je Produktlinie (Typenprogramm, Maße, Kaltstart, Verfügbark
 Anwendungen, BVD-Kontakt) sowie Direktkontakt
 (Anrufen per tel:-Link und vorbereitete E-Mail) aus der Anfrageliste. QR-Codes via
 [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT).
+Im Produktdetail zeigt ein Hub den empfohlenen Ladestrom (Faustregel: 10 % der
+Kapazität bei Blei, 20 % bei LiFePO4) mit Sprung in den Ladegeräte-Berater,
+vergleichbare Produktlinien derselben Kategorie sowie technologiebezogene
+Handhabungs- und Sicherheitshinweise. Der Katalog filtert zusätzlich nach
+Kaltstartstrom-Klassen und sortiert auch nach kleinster Kapazität oder Gewicht;
+findet die Suche nichts, schlägt sie bei Tippfehlern die passende Schreibweise vor
+(„Meintest du …?"). Fehlende Produktbilder erhalten einen Platzhalter, offline
+erscheint ein Hinweis auf die zwischengespeicherte Version, und ein Fehlerfang
+verhindert eine leere Seite bei Darstellungsfehlern. Beim Drucken sorgt eine eigene
+A4-Seitenvorlage dafür, dass keine Tabellenzeilen angeschnitten werden.
 Die Oberfläche ist zweisprachig (DE/EN) und bietet einen Hell-/Dunkelmodus
 (Umschalter im Header, folgt sonst der Systemeinstellung); Produktdaten bleiben
 in Originalsprache. Auf Barrierefreiheit ausgelegt: Text-Kontraste erfüllen in
 beiden Modi WCAG AA (mind. 4.5:1), Dialoge sind vollständig per Tastatur bedienbar
 (Fokusfalle, Escape, Fokus-Rückgabe), Fokusringe sind in Hell und Dunkel gut
-sichtbar, und die Animationen respektieren „Bewegung reduzieren"
-(`prefers-reduced-motion`).
+sichtbar, eine Sprungmarke führt direkt zu den Ergebnissen, Screenreader hören
+Änderungen der Trefferzahl und den Zustand der Filter, und die Animationen
+respektieren „Bewegung reduzieren" (`prefers-reduced-motion`).
